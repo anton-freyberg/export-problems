@@ -4,7 +4,7 @@ This script lets you export all Dynatrace problems (open and closed) over a spec
 # HOW TO RUN
 * Install requirements.
 * Open problemDetails.py file and insert your envrironment URL and your API token with problems.read scope.
-* Choose the timeframe from which you want query problems starting now. Default is the last 6 hours.
+* In problemDetails.py, choose the timeframe from which you want query problems starting now. Default is the last 6 hours.
 
 ⚠️ This is **not** a official Dynatrace script
 
